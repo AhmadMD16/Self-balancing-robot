@@ -10,7 +10,7 @@ The GY-521 module measures the inclination of the robot and then sends that data
 The components used for this build are:
 
 * Arduino Nano
-* Breadbord
+* Breadboard
 * GY-521 MPU6050
 * 2x 28-BYJ48 Stepper Motor
 * 2x ULN2003 Driver Board
